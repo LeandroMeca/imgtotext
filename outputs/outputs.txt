@@ -1,1 +1,3 @@
-
+resultado inglês de extração de texto
+resultado japonês de extração de texto
+resultado português de extração de texto
