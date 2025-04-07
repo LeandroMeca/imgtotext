@@ -1,51 +1,49 @@
-```html
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text Extraction Results</title>
+    <title>README - Extração de Texto</title>
 </head>
 <body>
-    <h1>Results of Text Extraction</h1>
+    <h1>README - Resultados de Extração de Texto</h1>
     
     <section>
-        <h2>English Text Extraction Result</h2>
-        <p>The text in the image can be translated as:</p>
+        <h2>Resultado em Inglês</h2>
+        <p>O texto na imagem pode ser traduzido para português como:</p>
         <blockquote>
-            <p>"Good morning!<br>
-            Wishing you a day full of sunny smiles and happy thoughts!"</p>
+            <p>"Bom dia!<br>
+            Desejando a você um dia cheio de sorrisos ensolarados e pensamentos felizes!"</p>
         </blockquote>
-        <p>The message is cheerful and positive, perfect for starting the day with good vibes.</p>
+        <p>A mensagem é alegre e positiva, perfeita para iniciar o dia com boas vibrações.</p>
     </section>
     
     <section>
-        <h2>Japanese Text Extraction Result</h2>
-        <p>The image shows a card with Japanese text, placed on a wooden surface. It is surrounded by red carnations: three flowers on the right and one on the left. In the background, there are blurred heart-shaped lights in various colors, creating a warm and loving atmosphere.</p>
-        <p>The Japanese text on the card says:</p>
+        <h2>Resultado em Japonês</h2>
+        <p>A imagem mostra um cartão com texto em japonês, colocado sobre uma superfície de madeira. Está cercado por cravos vermelhos: três flores à direita e uma à esquerda. No fundo, há luzes desfocadas em forma de coração, criando uma atmosfera quente e amorosa.</p>
+        <p>O texto japonês no cartão diz:</p>
         <blockquote>
             <p>お母さん<br>いつもありがとう♡</p>
         </blockquote>
-        <p>This translates to:</p>
+        <p>Isso significa:</p>
         <blockquote>
-            <p>Mother,<br>
-            Always thank you♡</p>
+            <p>Mãe,<br>
+            Sempre obrigado(a)♡</p>
         </blockquote>
-        <p>The image seems to be a heartfelt message of gratitude, likely intended for Mother's Day or a similar occasion to express appreciation and love for a mother.</p>
+        <p>Essa imagem parece ser uma mensagem comovente de gratidão, provavelmente destinada ao Dia das Mães ou uma ocasião semelhante para expressar apreço e amor por uma mãe.</p>
     </section>
     
     <section>
-        <h2>Portuguese Text Extraction Result</h2>
-        <p>The image shows an open book, laid on a wooden surface, with a blurred background. The highlight of the image is a biblical quote in Portuguese, which says:</p>
+        <h2>Resultado em Português</h2>
+        <p>A imagem mostra um livro aberto, disposto sobre uma superfície de madeira, com um fundo desfocado. O destaque da imagem é uma citação bíblica em português, que diz:</p>
         <blockquote>
             <p>"Jesus respondeu: 'O que é impossível para os homens é possível para Deus' - Lucas 18:27"</p>
         </blockquote>
-        <p>Additionally, in the bottom-left corner of the image, there is an inscription with the text:</p>
+        <p>Além disso, no canto inferior esquerdo da imagem, há uma inscrição com o texto:</p>
         <blockquote>
             <p>"vipmensagens.com"</p>
         </blockquote>
-        <p>This visual composition seems to convey a spiritual or religious message, with an inspiring tone.</p>
+        <p>Essa composição visual transmite uma mensagem espiritual ou religiosa, com um tom inspirador.</p>
     </section>
 </body>
 </html>
-```
